@@ -1,0 +1,9 @@
+{
+  "license": "UNLICENSED",
+  "name": "repechaje-2026sem1-vespertino",
+  "private": true,
+  "workspaces": [
+    "packages/web"
+  ],
+  "version": "0.1.0"
+}
