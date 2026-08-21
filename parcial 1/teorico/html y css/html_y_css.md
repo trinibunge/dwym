@@ -1,11 +1,5 @@
 # HTML y CSS — Teórico Parcial 1 (Programación Web y Mobile)
 
-> Resumen armado a partir de las diapositivas de la unidad 1 (HTML y CSS) y de los
-> ejercicios de parciales/simulacros anteriores del repo. Pensado para repasar antes
-> del parcial 1, que típicamente pide **maquetar un diseño dado (imagen de referencia)
-> con HTML + CSS, de forma responsiva**, usando tablas, imágenes, fuentes propias, etc.
-
----
 
 ## 1. HTML
 
@@ -577,13 +571,3 @@ A partir de los ejercicios de parciales/simulacros anteriores, el ejercicio 1 t�
 6. Trabajar con **imágenes** (`<img>` con `alt`, ajustadas con CSS).
 7. Mantener el CSS organizado por selectores de **clase** (evitar IDs para estilos generales, usar `class` para reutilizar estilos entre elementos similares) y aprovechar los **combinadores** cuando sea más simple que agregar clases nuevas.
 
-### Checklist rápido antes de entregar
-
-- [ ] `<!DOCTYPE html>`, `<html lang="es">`, `<meta charset="UTF-8">` y viewport presentes.
-- [ ] Un solo `<h1>`, jerarquía de headings correcta.
-- [ ] Todas las `<img>` con `alt`.
-- [ ] CSS externo vinculado con `<link>` (no todo inline).
-- [ ] Layout responsivo probado achicando/agrandando la ventana.
-- [ ] Tabla con `thead`/`tbody`, `th` para encabezados.
-- [ ] Nombres de clases descriptivos y reutilizados donde corresponda.
-- [ ] Sin errores de anidamiento (tags bien cerrados, en el orden correcto).
