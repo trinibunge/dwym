@@ -1,9 +1,5 @@
 # JavaScript — Teórico Parcial 1 (Programación Web y Mobile)
 
-Este documento reúne todos los conceptos teóricos y prácticos de **JavaScript (ES6+)** necesarios para resolver con éxito los ejercicios de programación en el **Parcial 1**.
-
----
-
 ## 1. Fundamentos de JavaScript
 
 ### 1.1 Variables y Constantes
