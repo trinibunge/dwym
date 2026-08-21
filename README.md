@@ -20,9 +20,8 @@ Sin frameworks ni dependencias: todo corre directamente en el navegador.
 
 No requiere instalación. Para ver cualquier ejercicio:
 
-Cloná el repositorio:
-bash
-   git clone https://github.com/maaxilopp/<nombre-del-repo>.git
+Cloná el repositorio,
+
 Entrá a la carpeta del ejercicio que quieras revisar.
 Abrí el archivo index.html en tu navegador (doble clic o arrastrándolo a la ventana).
 
