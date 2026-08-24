@@ -1,6 +1,94 @@
 @font-face {
-  font-family: 'Rufina';
-  src: url('./assets/fonts/Rufina-Bold.ttf') format('truetype');
+  font-family: "Rufina";
+  src: url("./assets/fonts/Rufina-Bold.ttf") format("truetype");
   font-weight: 700;
   font-style: normal;
+}
+
+body {
+  font-family: "Rufina";
+  margin: 100px;
+  margin-top: 50px;
+}
+
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background-color: #f2d800;
+  margin: -100px -100px 0 -100px;
+  padding: 100px;
+}
+
+header img {
+  margin-top: -50px;
+  width: 350px;
+  height: 350px;
+}
+
+h1 {
+  font-size: 60px;
+  max-width: 12ch;
+  margin-bottom: 0px;
+}
+
+header p {
+  max-width: 40ch;
+  font-size: 20px;
+}
+header .textosEncabezado {
+  margin-top: 50px;
+  color: rgb(199, 30, 30);
+}
+
+.entradas {
+  display: flex;
+  gap: 30px;
+  margin-top: 20px;
+}
+
+.entradas img,
+.principales img,
+.postresybebidas img {
+  height: 630px;
+  width: 500px;
+}
+
+.tituloysub {
+  text-align: center;
+}
+
+.tituloysub p {
+  font-size: 15px;
+  margin-bottom: 40px;
+}
+
+h2 {
+  font-size: 55px;
+  margin-bottom: 10px;
+}
+
+.entradas,
+.principales,
+.postresybebidas {
+  display: flex;
+  gap: 100px;
+}
+
+.principales {
+  flex-direction: row-reverse;
+}
+
+.precio {
+  margin-left: 420px;
+  font-size: 25px;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+.descripcion {
+  margin-bottom: 20px;
+  font-size: 15px;
 }
