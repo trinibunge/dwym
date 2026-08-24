@@ -1,6 +1,97 @@
 @font-face {
-  font-family: 'Raleway';
-  src: url('./assets/fonts/Raleway-Bold.ttf') format('truetype');
+  font-family: "Raleway";
+  src: url("./assets/fonts/Raleway-Bold.ttf") format("truetype");
   font-weight: 700;
   font-style: normal;
+}
+
+@font-face {
+  font-family: "Raleway";
+  src: url("./assets/fonts/Raleway-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+  font-family: "Raleway";
+  margin: 100px;
+  margin-top: 50px;
+}
+
+header {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: flex-end;
+}
+
+header img {
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+}
+
+header .textos {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+  margin-top: -10px;
+}
+
+h1 {
+  margin-top: -20px;
+}
+
+header p {
+  font-size: 20px;
+}
+
+.perfilYContacto {
+  display: flex;
+  gap: 200px;
+}
+.perfil,
+.contacto {
+  flex: 1;
+}
+.contacto h2 {
+  margin-left: 10px;
+}
+
+.contacto li {
+  margin: 20px;
+  margin-left: -10px;
+}
+ul.listaContacto li::marker {
+  color: darkgray;
+}
+.lugarYaño {
+  display: flex;
+  justify-content: space-between;
+}
+
+.tituloEdu {
+  margin-top: -10px;
+}
+
+#tituloEdu2 {
+  margin-bottom: 77px;
+}
+
+ul.listaTrabajo {
+  margin-top: 0px;
+}
+
+.año {
+  color: darkgray;
+}
+
+.imagenes {
+  height: 50px;
+  width: 50px;
+  display: flex;
+  gap: 30px;
+}
+
+.tecnologias img {
+  border: 1px solid black;
 }

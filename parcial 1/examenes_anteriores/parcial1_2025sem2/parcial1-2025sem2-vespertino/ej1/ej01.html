@@ -1,27 +1,118 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="es">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Parcial 1, 2025 sem 2, Desarrollo Web y Mobile</title>
-    <link rel="stylesheet" href="ej01.css">
-</head>
-
-<body>
-    <h1>Ejercicio 01</h1>
-    <p>
-        Replicar la composición de ej_01_referencia.png lo más fiel posible,
-        respetando tipografías, tamaños, colores, espaciados y
-        alineaciones de cada sección. En /assets se encuentran las imágenes a usar
-        y en textos.md todo el contenido del menú. La entrega debe resolverse solo con
-        HTML + CSS (sin frameworks/JS).
-    </p>
-    <p>
-        La fuente a utilizar (Raleway) ya ha sido descargada y agregada en
-        /assets/fonts, y se encuentra referenciada en el archivo ej01.css.
-        Deben aplicarla donde corresponda.
-    </p>
-</body>
-
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ejercicio</title>
+    <link rel="stylesheet" href="ej01.css" />
+  </head>
+  <body>
+    <header>
+      <div class="textos">
+        <p id="Info">Cyber Security Specialist / Hacker</p>
+        <h1 id="Nombre">Lord Voldemort</h1>
+      </div>
+      <img src="assets/lord_voldemort.png" alt="Lord Voldemort" />
+    </header>
+    <hr />
+    <div class="perfilYContacto">
+      <div class="perfil">
+        <h2>Perfil</h2>
+        <p>
+          Hacker con amplia experiencia en ingeniería social, penetración de
+          sistemas y control distribuido de redes oscuras. Especializado en
+          crear exploits imposibles de rastrear y en mantener alta
+          disponibilidad incluso después de múltiples intentos de eliminación.
+        </p>
+      </div>
+      <div class="contacto">
+        <h2>Contacto</h2>
+        <ul class="listaContacto">
+          <li>Dirección: Dumbledor St 666</li>
+          <li>Email: voldemort@darknet.onion</li>
+          <li>Teléfono: +666-MORTIFAGO</li>
+          <li>Portafolio: lordv.dev/darkarts</li>
+        </ul>
+      </div>
+    </div>
+    <hr />
+    <div class="educacion">
+      <h2>Educación</h2>
+      <div class="lugarYaño">
+        <h3 class="lugar">Hogwarts School of Witchcraft and Exploit</h3>
+        <p class="año">1938–1945</p>
+      </div>
+      <p class="tituloEdu">
+        Bachelor of Cyber Security and Dark Web, GPA: 3.4/4.0
+      </p>
+      <div class="lugarYaño">
+        <h3 class="lugar">Slytherin Advanced Cyber Institute</h3>
+        <p class="año">1945–1947</p>
+      </div>
+      <p class="tituloEdu" id="tituloEdu2">
+        Master in Distributed Systems & Horcrux Architecture
+      </p>
+    </div>
+    <hr />
+    <div class="trabajo">
+      <h2>Trabajos</h2>
+      <div class="lugarYaño">
+        <h3 class="lugar">Head of Security – IBM</h3>
+        <p class="año">1960–Presente</p>
+      </div>
+      <ul class="listaTrabajo">
+        <li>
+          Lideró proyectos de encriptación tan fuertes que ni Dumbledore.exe
+          pudo romperlos.
+        </li>
+        <li>
+          Implementó sistemas de autenticación biométrica avanzados anti
+          muggles.
+        </li>
+      </ul>
+      <div class="lugarYaño">
+        <h3 class="lugar">Founder & Lead Hacker – Mortífagos Collective</h3>
+        <p class="año">1947 – Presente</p>
+      </div>
+      <ul class="listaTrabajo">
+        <li>
+          Lideró ataques coordinados de denegación de servicio (Avada-Kedavra
+          DDoS).
+        </li>
+        <li>
+          Desarrolló malware persistente imposible de remover sin destruir todo
+          el sistema.
+        </li>
+        <li>
+          Administró infraestructura descentralizada para mantener redundancia
+          (7 Horcrux servers).
+        </li>
+      </ul>
+      <div class="lugarYaño">
+        <h3 class="lugar">Freelance Black Hat Hacker</h3>
+        <p class="año">1945 – 1947</p>
+      </div>
+      <ul class="listaTrabajo">
+        <li>
+          Infiltró múltiples instituciones educativas y financieras sin ser
+          detectado.
+        </li>
+        <li>Desarrolló exploits para sistemas mágicos y muggles.</li>
+        <li>
+          Famoso por robar credenciales con ataques de “Phishingus Totalus”.
+        </li>
+      </ul>
+    </div>
+    <hr />
+    <div class="tecnologias">
+      <h2>Tecnologías</h2>
+      <div class="imagenes">
+        <img src="assets/deathly_hallows.png" alt="reliquias" />
+        <img src="assets/tor.png" alt="tor" />
+        <img src="assets/Slytherin.png" alt="slytherin" />
+        <img src="assets/python.png" alt="python" />
+        <img src="assets/java.png" alt="java" />
+      </div>
+    </div>
+  </body>
 </html>
