@@ -20,8 +20,18 @@ debería devolver:
 Si un elemento no tiene alguna de las propiedades requeridas, se debe arrojar un
 error.
 */
-
 export function countriesForCurrency(data, currency) {
-  //TODO Sustituir este código por la implementación correcta.
-  throw new Error("La función countriesForCurrency no está implementada");
+  const resultado = [];
+  if (data === undefined || data === null) {
+    throw new Error("El primer argumento no puede ser undefined o null");
+  }
+  if (currency === undefined || currency === null) {
+    throw new Error("El segundo argumento no puede ser undefined o null");
+  }
+  for (const pais of data) {
+    if (currency in pais.currencies) {
+      resultado.push(pais.cca2);
+    }
+  }
+  return resultado;
 }

@@ -20,7 +20,30 @@ Por ejemplo:
 Sugerencia: Usar `Math.random()` para generar números aleatorios.
 */
 
-export function genExp() {
-  //TODO Sustituir este código por la implementación correcta.
-  throw new Error("La función genExp no está implementada");
+export function genExp(resultado) {
+  let expresion = {};
+  const operators = ["+", "-", "*", "/"];
+  const operator = operators[Math.floor(Math.random() * operators.length)];
+
+  if (operator === "+") {
+    const left = Math.floor(Math.random() * resultado);
+    const right = resultado - left;
+    expresion = { operator, left, right };
+  } else if (operator === "-") {
+    const right = Math.floor(Math.random() * resultado);
+    const left = right + resultado;
+    expresion = { operator, left, right };
+  } else if (operator === "*") {
+    const left = Math.floor(Math.random() * resultado);
+    const right = resultado / left;
+    expresion = { operator, left, right };
+  } else if (operator === "/") {
+    const right = Math.floor(Math.random() * resultado);
+    const left = resultado * right;
+    expresion = { operator, left, right };
+  }
+
+  return expresion;
 }
+
+console.log(genExp());

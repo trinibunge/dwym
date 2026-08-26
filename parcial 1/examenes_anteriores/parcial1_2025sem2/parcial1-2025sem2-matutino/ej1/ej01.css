@@ -16,8 +16,8 @@ header {
   flex-direction: row;
   justify-content: space-between;
   background-color: #f2d800;
-  margin: -100px -100px 0 -100px;
-  padding: 100px;
+  margin: -100px -100px 0 -100px; /* Ajuste de margen para cubrir el borde del body */
+  padding: 100px; /* Ajuste de padding para que el contenido no quede pegado al borde */
 }
 
 header img {

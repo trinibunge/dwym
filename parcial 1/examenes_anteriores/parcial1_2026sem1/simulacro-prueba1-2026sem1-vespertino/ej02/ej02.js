@@ -26,10 +26,14 @@ debería devolver:
 */
 
 export function fieldListToObject(fieldList) {
-  //TODO Sustituir este código por la implementación correcta.
-  // throw new Error("La función fieldListToObject no está implementada");
   if (fieldList === undefined || fieldList === null) {
-    throw new Error("El argumento no puede ser undefined o null.");
+    throw new Error("El argumento no puede ser undefined o null");
   }
+  const resultado = {};
+  for (const item of fieldList) {
+    if ("field" in item) {
+      resultado[item.field] = item.value;
+    }
+  }
+  return resultado;
 }
-

@@ -1,3 +1,101 @@
 {
-  "colors": [ ]
+  "colors": [
+    {
+      "red": 220,
+      "green": 220,
+      "blue": 100,
+      "id": "6TKAdZhMV-4"
+    },
+    {
+      "red": 300,
+      "green": 220,
+      "blue": 100,
+      "id": "ZGN_1q-OvRQ"
+    },
+    {
+      "red": 300,
+      "green": 600,
+      "blue": 100,
+      "id": "olwPHnV9ryI"
+    },
+    {
+      "red": 300,
+      "green": 600,
+      "blue": 1000,
+      "id": "3mTDh9rb1ts"
+    },
+    {
+      "red": 300,
+      "green": 200,
+      "blue": 500,
+      "id": "6IuRY0fTVUw"
+    },
+    {
+      "red": 300,
+      "green": 200,
+      "blue": 500,
+      "id": "pmuKZ6lfsKE"
+    },
+    {
+      "red": 300,
+      "green": 255,
+      "blue": 500,
+      "id": "Ywb00DhjF-8"
+    },
+    {
+      "red": 241,
+      "green": 144,
+      "blue": 500,
+      "id": "gLGYFMYjqxk"
+    },
+    {
+      "red": 241,
+      "green": 144,
+      "blue": 193,
+      "id": "1o8F0ON4mS8"
+    },
+    {
+      "red": 241,
+      "green": 14,
+      "blue": 193,
+      "id": "Fp8Q6ivL-xE"
+    },
+    {
+      "red": 241,
+      "green": 14,
+      "blue": 19,
+      "id": "oYR4aglmtT0"
+    },
+    {
+      "red": 24,
+      "green": 14,
+      "blue": 19,
+      "id": "d70hnzaB-9M"
+    },
+    {
+      "red": 267,
+      "green": 67,
+      "blue": 19,
+      "id": "YBjE0J15PXg"
+    },
+    {
+      "red": 267,
+      "green": 67,
+      "blue": 267,
+      "id": "iEUsjuXtAlw"
+    },
+    {
+      "red": 67,
+      "green": 67,
+      "blue": 267,
+      "id": "8Q83IZcndeM"
+    },
+    {
+      "red": 67,
+      "green": 67,
+      "blue": 67,
+      "id": "m1uSZtD9te0"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }

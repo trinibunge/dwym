@@ -8,12 +8,36 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 18px;
   margin: 1em 4vw;
+  border: 2px solid black;
+  border-radius: 10px;
 }
 
+@media (max-width: 768px) {
+  body {
+    margin: 1em 1vw;
+  }
+
+  .filaUno,
+  .filaDos,
+  .filaTres,
+  .filaCuatro {
+    flex-wrap: wrap;
+  }
+}
 .content {
+  display: flex;
+  flex-direction: column;
+  gap: 1em;
+}
+
+.filaUno,
+.filaDos,
+.filaTres,
+.filaCuatro {
   display: flex;
   flex-direction: row;
   gap: 1em;
+  justify-content: center;
 }
 
 table {
@@ -21,8 +45,45 @@ table {
   font-size: 0.85em;
 }
 
-th, td {
+th,
+td {
   border: 1px solid #ccc;
   padding: 4px 8px;
   text-align: left;
+}
+
+button {
+  width: 250px;
+  height: 170px;
+  border-radius: 10px;
+  border: 2px solid black;
+}
+.blanco {
+  background-color: white;
+}
+.gris {
+  background-color: rgb(184, 178, 178);
+}
+.emojiYtexto {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.emoji {
+  margin-top: 0px;
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.texto {
+  margin-top: -9px;
+  font-weight: bold;
+}
+
+.tripulacion {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  margin-top: -20px;
 }

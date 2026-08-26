@@ -2,9 +2,9 @@
 
 Este ejercicio involucra:
 
-+ modificaciones del DOM usando Javascript,
+- modificaciones del DOM usando Javascript,
 
-+ peticiones a una API para obtener y modificar datos.
+- peticiones a una API para obtener y modificar datos.
 
 Las modificaciones se deben hacer a los archivos en `public/`. Los demás
 archivos deben dejarse como están.
@@ -21,7 +21,7 @@ Dicho archivo tiene el siguiente contenido:
 
 ```json
 {
-  "colors": [] 
+  "colors": []
 }
 ```
 
@@ -34,9 +34,9 @@ misma deben tener la forma:
 
 Los _endpoints_ a utilizar en el ejercicio son:
 
-+ `GET /colors` para obtener la lista de los colores guardados.
+- `GET /colors` para obtener la lista de los colores guardados.
 
-+ `POST /colors` para agregar un color nuevo.
+- `POST /colors` para agregar un color nuevo.
 
 Accediendo a la dirección [`http://localhost:3000/`](http://localhost:3000/) en
 el navegador se verá la página en su estado inicial. Allí se explica como

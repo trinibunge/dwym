@@ -1,3 +1,23 @@
 {
-  "combos": []
+  "combos": [
+    {
+      "backgroundColor": "#6fc57f",
+      "textColor": "#3f0b6f",
+      "approved": true,
+      "id": "Z3Zh0E88Veg"
+    },
+    {
+      "backgroundColor": "#f92dc4",
+      "textColor": "#bde24e",
+      "approved": false,
+      "id": "rCf_4hOSf0M"
+    },
+    {
+      "backgroundColor": "#6df61e",
+      "textColor": "#01ccdb",
+      "approved": true,
+      "id": "5LJi4adKyio"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
 }
