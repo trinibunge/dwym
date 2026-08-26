@@ -26,10 +26,14 @@ debería devolver:
 */
 
 export function fieldListToObject(fieldList) {
-  //TODO Sustituir este código por la implementación correcta.
-  // throw new Error("La función fieldListToObject no está implementada");
-  if (fieldList === undefined || fieldList === null) {
+  if (fieldList == null) {
     throw new Error("El argumento no puede ser undefined o null.");
   }
-}
 
+  return fieldList.reduce((acc, item) => {
+    if ("field" in item) {
+      acc[item.field] = item.value;
+    }
+    return acc;
+  }, {});
+}
