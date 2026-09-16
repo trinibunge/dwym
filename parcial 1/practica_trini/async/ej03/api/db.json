@@ -1,0 +1,515 @@
+{
+  "combos": [
+    {
+      "textColor": "rgb(134, 10, 22)",
+      "backgroundColor": "rgb(245, 226, 236)",
+      "approved": true,
+      "id": "Vfx9Ltu_qF0"
+    },
+    {
+      "textColor": "rgb(134, 10, 22)",
+      "backgroundColor": "rgb(245, 226, 236)",
+      "approved": true,
+      "id": "_kXfPy1jlgQ"
+    },
+    {
+      "textColor": "rgb(134, 10, 22)",
+      "backgroundColor": "rgb(245, 226, 236)",
+      "approved": true,
+      "id": "CLOZTaJup_E"
+    },
+    {
+      "textColor": "rgb(134, 10, 22)",
+      "backgroundColor": "rgb(245, 226, 236)",
+      "approved": true,
+      "id": "IW_jCG6vrls"
+    },
+    {
+      "textColor": "rgb(82, 85, 63)",
+      "backgroundColor": "rgb(241, 35, 243)",
+      "approved": true,
+      "id": "RWvkTiSCDv8"
+    },
+    {
+      "textColor": "rgb(82, 85, 63)",
+      "backgroundColor": "rgb(241, 35, 243)",
+      "approved": true,
+      "id": "HTInYjqXIWk"
+    },
+    {
+      "textColor": "rgb(82, 85, 63)",
+      "backgroundColor": "rgb(241, 35, 243)",
+      "approved": true,
+      "id": "eBWzwTgYZTs"
+    },
+    {
+      "textColor": "rgb(82, 85, 63)",
+      "backgroundColor": "rgb(241, 35, 243)",
+      "approved": true,
+      "id": "SNWCdIdGxlY"
+    },
+    {
+      "textColor": "rgb(82, 85, 63)",
+      "backgroundColor": "rgb(241, 35, 243)",
+      "approved": true,
+      "id": "5OoS8jnY9S0"
+    },
+    {
+      "textColor": "rgb(178, 84, 243)",
+      "backgroundColor": "rgb(104, 33, 217)",
+      "approved": true,
+      "id": "sVhiYvnxx7c"
+    },
+    {
+      "textColor": "rgb(178, 84, 243)",
+      "backgroundColor": "rgb(104, 33, 217)",
+      "approved": true,
+      "id": "haQXt6I9BLw"
+    },
+    {
+      "textColor": "rgb(13, 217, 100)",
+      "backgroundColor": "rgb(135, 145, 144)",
+      "approved": true,
+      "id": "j0_B2U45-YI"
+    },
+    {
+      "textColor": "rgb(13, 217, 100)",
+      "backgroundColor": "rgb(135, 145, 144)",
+      "approved": true,
+      "id": "TY2X8-d2kpI"
+    },
+    {
+      "textColor": "rgb(13, 217, 100)",
+      "backgroundColor": "rgb(135, 145, 144)",
+      "approved": true,
+      "id": "TJiGscj3nP0"
+    },
+    {
+      "textColor": "rgb(13, 217, 100)",
+      "backgroundColor": "rgb(135, 145, 144)",
+      "approved": true,
+      "id": "7vubNDBpVTI"
+    },
+    {
+      "textColor": "rgb(13, 217, 100)",
+      "backgroundColor": "rgb(135, 145, 144)",
+      "approved": true,
+      "id": "8hynsGb1YuM"
+    },
+    {
+      "textColor": "rgb(11, 117, 121)",
+      "backgroundColor": "rgb(194, 2, 242)",
+      "approved": true,
+      "id": "j7WKlrj3xWA"
+    },
+    {
+      "textColor": "rgb(11, 117, 121)",
+      "backgroundColor": "rgb(194, 2, 242)",
+      "approved": true,
+      "id": "SjJS68M2fDE"
+    },
+    {
+      "textColor": "rgb(11, 117, 121)",
+      "backgroundColor": "rgb(194, 2, 242)",
+      "approved": true,
+      "id": "boh9vJxPdkc"
+    },
+    {
+      "textColor": "rgb(11, 117, 121)",
+      "backgroundColor": "rgb(194, 2, 242)",
+      "approved": true,
+      "id": "pGzLE3lBL7s"
+    },
+    {
+      "textColor": "rgb(11, 117, 121)",
+      "backgroundColor": "rgb(194, 2, 242)",
+      "approved": true,
+      "id": "e8nmr92liu8"
+    },
+    {
+      "textColor": "rgb(64, 51, 79)",
+      "backgroundColor": "rgb(206, 130, 89)",
+      "approved": true,
+      "id": "GK09gzk00fI"
+    },
+    {
+      "textColor": "rgb(112, 80, 75)",
+      "backgroundColor": "rgb(222, 95, 210)",
+      "approved": true,
+      "id": "CfqRkF7MOiM"
+    },
+    {
+      "textColor": "rgb(170, 103, 187)",
+      "backgroundColor": "rgb(8, 177, 104)",
+      "approved": true,
+      "id": "M9CMaWGFRfE"
+    },
+    {
+      "textColor": "rgb(63, 90, 117)",
+      "backgroundColor": "rgb(232, 252, 88)",
+      "approved": true,
+      "id": "6xZpVDnHFJc"
+    },
+    {
+      "textColor": "rgb(63, 90, 117)",
+      "backgroundColor": "rgb(232, 252, 88)",
+      "approved": true,
+      "id": "X53IObX2k5A"
+    },
+    {
+      "textColor": "rgb(63, 90, 117)",
+      "backgroundColor": "rgb(232, 252, 88)",
+      "approved": true,
+      "id": "Deu8aHhvvU0"
+    },
+    {
+      "textColor": "rgb(98, 86, 141)",
+      "backgroundColor": "rgb(59, 120, 138)",
+      "approved": true,
+      "id": "inV0eB_CpYY"
+    },
+    {
+      "textColor": "rgb(49, 114, 84)",
+      "backgroundColor": "rgb(192, 25, 15)",
+      "approved": true,
+      "id": "-B4T3_2sRjs"
+    },
+    {
+      "textColor": "rgb(49, 114, 84)",
+      "backgroundColor": "rgb(192, 25, 15)",
+      "approved": true,
+      "id": "Seaz5u7DGwA"
+    },
+    {
+      "textColor": "rgb(189, 35, 10)",
+      "backgroundColor": "rgb(114, 241, 131)",
+      "approved": true,
+      "id": "ypm_LKTyvFU"
+    },
+    {
+      "textColor": "rgb(48, 177, 249)",
+      "backgroundColor": "rgb(231, 172, 171)",
+      "approved": true,
+      "id": "XYmPBAHLiPY"
+    },
+    {
+      "textColor": "rgb(6, 157, 136)",
+      "backgroundColor": "rgb(132, 201, 238)",
+      "approved": true,
+      "id": "GKe5V4aLhZA"
+    },
+    {
+      "textColor": "rgb(46, 110, 217)",
+      "backgroundColor": "rgb(142, 127, 199)",
+      "approved": true,
+      "id": "wi4aNCkndag"
+    },
+    {
+      "textColor": "rgb(159, 217, 90)",
+      "backgroundColor": "rgb(211, 207, 103)",
+      "approved": true,
+      "id": "IZTUy3Myaxc"
+    },
+    {
+      "textColor": "rgb(207, 10, 222)",
+      "backgroundColor": "rgb(177, 212, 188)",
+      "approved": true,
+      "id": "oZmPdS31r0Y"
+    },
+    {
+      "textColor": "rgb(39, 224, 235)",
+      "backgroundColor": "rgb(45, 198, 73)",
+      "approved": true,
+      "id": "ii9DobZlKL8"
+    },
+    {
+      "textColor": "rgb(121, 241, 209)",
+      "backgroundColor": "rgb(250, 82, 149)",
+      "approved": true,
+      "id": "CRyNd9UmJeY"
+    },
+    {
+      "textColor": "rgb(180, 52, 178)",
+      "backgroundColor": "rgb(233, 98, 73)",
+      "approved": true,
+      "id": "QaEwdPEAnZE"
+    },
+    {
+      "textColor": "rgb(123, 156, 184)",
+      "backgroundColor": "rgb(15, 190, 154)",
+      "approved": true,
+      "id": "074ey2a_8Gg"
+    },
+    {
+      "textColor": "rgb(160, 215, 52)",
+      "backgroundColor": "rgb(230, 190, 177)",
+      "approved": true,
+      "id": "G-ChMeKUwuA"
+    },
+    {
+      "textColor": "rgb(12, 125, 188)",
+      "backgroundColor": "rgb(215, 0, 21)",
+      "approved": true,
+      "id": "xk7ZCxx4OUY"
+    },
+    {
+      "textColor": "rgb(208, 108, 0)",
+      "backgroundColor": "rgb(103, 115, 113)",
+      "approved": true,
+      "id": "e75MqHOUgqk"
+    },
+    {
+      "textColor": "rgb(217, 124, 139)",
+      "backgroundColor": "rgb(237, 95, 100)",
+      "approved": true,
+      "id": "kkwF4VcqWjM"
+    },
+    {
+      "textColor": "rgb(179, 174, 220)",
+      "backgroundColor": "rgb(104, 63, 40)",
+      "approved": true,
+      "id": "JAxjpxjqjrE"
+    },
+    {
+      "textColor": "rgb(225, 228, 115)",
+      "backgroundColor": "rgb(202, 134, 81)",
+      "approved": true,
+      "id": "9z0S8qUWILw"
+    },
+    {
+      "textColor": "rgb(107, 182, 93)",
+      "backgroundColor": "rgb(67, 177, 17)",
+      "approved": true,
+      "id": "7q-esCT-fjk"
+    },
+    {
+      "textColor": "rgb(241, 89, 248)",
+      "backgroundColor": "rgb(175, 175, 143)",
+      "approved": true,
+      "id": "aNvNYm6nV88"
+    },
+    {
+      "textColor": "rgb(250, 44, 206)",
+      "backgroundColor": "rgb(104, 35, 24)",
+      "approved": true,
+      "id": "4gJRmSTH90Y"
+    },
+    {
+      "textColor": "rgb(19, 103, 197)",
+      "backgroundColor": "rgb(247, 144, 218)",
+      "approved": true,
+      "id": "NtLcGgvx3zM"
+    },
+    {
+      "textColor": "rgb(65, 202, 198)",
+      "backgroundColor": "rgb(106, 195, 198)",
+      "approved": true,
+      "id": "8tfG7tr7H-A"
+    },
+    {
+      "textColor": "rgb(65, 202, 198)",
+      "backgroundColor": "rgb(106, 195, 198)",
+      "approved": true,
+      "id": "fxP0B-KZm5Q"
+    },
+    {
+      "textColor": "rgb(93, 16, 201)",
+      "backgroundColor": "rgb(27, 153, 255)",
+      "approved": true,
+      "id": "tZ1Jx80JE6s"
+    },
+    {
+      "textColor": "rgb(93, 16, 201)",
+      "backgroundColor": "rgb(27, 153, 255)",
+      "approved": true,
+      "id": "OcI1zM_cKZc"
+    },
+    {
+      "textColor": "rgb(93, 16, 201)",
+      "backgroundColor": "rgb(27, 153, 255)",
+      "approved": true,
+      "id": "SoSNk0wqvIE"
+    },
+    {
+      "textColor": "rgb(93, 16, 201)",
+      "backgroundColor": "rgb(27, 153, 255)",
+      "approved": true,
+      "id": "9dOWAqnR1wY"
+    },
+    {
+      "textColor": "rgb(203, 136, 11)",
+      "backgroundColor": "rgb(114, 164, 13)",
+      "approved": true,
+      "id": "H58NjlnsmQw"
+    },
+    {
+      "textColor": "rgb(105, 179, 181)",
+      "backgroundColor": "rgb(69, 151, 151)",
+      "approved": true,
+      "id": "FPDXRD-3FIk"
+    },
+    {
+      "textColor": "rgb(105, 179, 181)",
+      "backgroundColor": "rgb(69, 151, 151)",
+      "approved": true,
+      "id": "BMu5G7QqWoM"
+    },
+    {
+      "textColor": "rgb(105, 179, 181)",
+      "backgroundColor": "rgb(69, 151, 151)",
+      "approved": true,
+      "id": "u7LDojjT2Xg"
+    },
+    {
+      "textColor": "rgb(105, 179, 181)",
+      "backgroundColor": "rgb(69, 151, 151)",
+      "approved": true,
+      "id": "sXv_KDFawNY"
+    },
+    {
+      "textColor": "rgb(105, 179, 181)",
+      "backgroundColor": "rgb(69, 151, 151)",
+      "approved": true,
+      "id": "Te3IT_XzouA"
+    },
+    {
+      "textColor": "rgb(118, 201, 102)",
+      "backgroundColor": "rgb(5, 59, 136)",
+      "approved": true,
+      "id": "LzHzddAI4Yo"
+    },
+    {
+      "textColor": "rgb(194, 245, 24)",
+      "backgroundColor": "rgb(208, 82, 185)",
+      "approved": true,
+      "id": "_bQLnSftqWQ"
+    },
+    {
+      "textColor": "rgb(66, 221, 162)",
+      "backgroundColor": "rgb(188, 135, 35)",
+      "approved": true,
+      "id": "jRllz8d7Pp4"
+    },
+    {
+      "textColor": "rgb(41, 254, 232)",
+      "backgroundColor": "rgb(132, 172, 105)",
+      "approved": true,
+      "id": "-rVbwFDKGgo"
+    },
+    {
+      "textColor": "rgb(236, 29, 32)",
+      "backgroundColor": "rgb(203, 115, 18)",
+      "approved": true,
+      "id": "b6S46x2ARzY"
+    },
+    {
+      "textColor": "rgb(121, 229, 222)",
+      "backgroundColor": "rgb(78, 253, 152)",
+      "approved": true,
+      "id": "BTr1dZuT384"
+    },
+    {
+      "textColor": "rgb(138, 179, 5)",
+      "backgroundColor": "rgb(177, 92, 151)",
+      "approved": true,
+      "id": "hUKHTcDys3k"
+    },
+    {
+      "textColor": "rgb(246, 64, 145)",
+      "backgroundColor": "rgb(75, 0, 80)",
+      "approved": true,
+      "id": "frb_YXp_SJQ"
+    },
+    {
+      "textColor": "rgb(156, 57, 199)",
+      "backgroundColor": "rgb(192, 34, 199)",
+      "approved": true,
+      "id": "DtELSqQA-cI"
+    },
+    {
+      "textColor": "rgb(126, 30, 140)",
+      "backgroundColor": "rgb(155, 50, 102)",
+      "approved": true,
+      "id": "N2vjPn--5LA"
+    },
+    {
+      "textColor": "rgb(63, 183, 42)",
+      "backgroundColor": "rgb(187, 186, 223)",
+      "approved": true,
+      "id": "ttQDUY1qL0Y"
+    },
+    {
+      "textColor": "rgb(241, 17, 96)",
+      "backgroundColor": "rgb(149, 85, 181)",
+      "approved": true,
+      "id": "VcVNnE3IsdI"
+    },
+    {
+      "textColor": "rgb(200, 128, 159)",
+      "backgroundColor": "rgb(100, 92, 88)",
+      "approved": true,
+      "id": "hGRdQEJA-yc"
+    },
+    {
+      "textColor": "rgb(28, 75, 166)",
+      "backgroundColor": "rgb(236, 225, 247)",
+      "approved": true,
+      "id": "XU4DnQbKe9w"
+    },
+    {
+      "textColor": "rgb(181, 185, 66)",
+      "backgroundColor": "rgb(41, 26, 44)",
+      "approved": true,
+      "id": "gqH4sctsEfY"
+    },
+    {
+      "textColor": "rgb(46, 136, 90)",
+      "backgroundColor": "rgb(167, 77, 206)",
+      "approved": true,
+      "id": "aumzukzyaIQ"
+    },
+    {
+      "textColor": "rgb(194, 156, 221)",
+      "backgroundColor": "rgb(56, 45, 26)",
+      "approved": true,
+      "id": "dZkIDsUNnkE"
+    },
+    {
+      "textColor": "rgb(194, 156, 221)",
+      "backgroundColor": "rgb(56, 45, 26)",
+      "approved": true,
+      "id": "EP1XkA33ano"
+    },
+    {
+      "textColor": "rgb(5, 121, 157)",
+      "backgroundColor": "rgb(205, 17, 114)",
+      "approved": true,
+      "id": "8cihewGVT9c"
+    },
+    {
+      "textColor": "rgb(54, 176, 115)",
+      "backgroundColor": "rgb(10, 23, 235)",
+      "approved": true,
+      "id": "tiDURFUhl4g"
+    },
+    {
+      "textColor": "rgb(173, 189, 230)",
+      "backgroundColor": "rgb(26, 71, 134)",
+      "approved": true,
+      "id": "57qw0qixLeo"
+    },
+    {
+      "textColor": "rgb(242, 214, 14)",
+      "backgroundColor": "rgb(176, 200, 170)",
+      "approved": true,
+      "id": "I0g279s0G84"
+    },
+    {
+      "textColor": "rgb(20, 182, 1)",
+      "backgroundColor": "rgb(31, 206, 11)",
+      "approved": true,
+      "id": "Um4hsQ-wNR8"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

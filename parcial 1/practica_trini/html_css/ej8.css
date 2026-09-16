@@ -1,0 +1,59 @@
+body{
+    display:flex;
+    flex-direction:column;
+    margin:0;
+    min-height: 100vh;
+    justify-content: center;
+    
+}
+
+.topbar {
+    display:flex;
+    align-items: center;
+    justify-content:center;
+    border:2px solid black;
+    font-weight: bold;
+    padding:10px
+}
+
+.persona {
+    padding: 50px;
+    display: flex;
+    align-items:center;
+    justify-content: center;
+    gap:20px;
+
+}
+
+.habilidades {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+
+}
+
+.tarjetas {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(200px, 1fr));
+
+
+}
+.tarjeta {
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    border:2px solid black;
+    border-radius: 10px;
+    margin:10px;
+    padding: 50px;
+}
+
+.footer {
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    margin-top: auto;
+}

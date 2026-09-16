@@ -1,0 +1,47 @@
+{
+  "colors": [
+    {
+      "red": 220,
+      "green": 220,
+      "blue": 100,
+      "id": "Owdfj9vTm3k"
+    },
+    {
+      "red": 220,
+      "green": 246,
+      "blue": 100,
+      "id": "9_wflGB4uJA"
+    },
+    {
+      "red": 220,
+      "green": 246,
+      "blue": 300000,
+      "id": "YLOMdXUS1UM"
+    },
+    {
+      "red": 244,
+      "green": 246,
+      "blue": 300000,
+      "id": "e0vG1iA6gJU"
+    },
+    {
+      "red": 220,
+      "green": 1,
+      "blue": 1,
+      "id": "e3Hf2tXwSdg"
+    },
+    {
+      "red": 1,
+      "green": 220,
+      "blue": 1,
+      "id": "k4Z7Rcho-8c"
+    },
+    {
+      "red": 1,
+      "green": 1,
+      "blue": 220,
+      "id": "x9OiTxuzGGA"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

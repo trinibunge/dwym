@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Ana",
+    "age": 20,
+    "course": {
+      "name": "Ingeniería en Informática",
+      "year": 2
+    }
+  },
+  {
+    "name": "Pedro",
+    "age": 22,
+    "course": {
+      "name": "Ingeniería Electrónica",
+      "year": 3
+    }
+  },
+  {
+    "name": "Sofía",
+    "age": 19,
+    "course": {
+      "name": "Ciencia de Datos",
+      "year": 1
+    }
+  }
+]

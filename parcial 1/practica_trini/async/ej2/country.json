@@ -1,0 +1,19 @@
+{
+  "name": "Argentina",
+  "capital": "Buenos Aires",
+  "population": 45376763,
+  "cities": [
+    {
+      "name": "Buenos Aires",
+      "population": 3120612
+    },
+    {
+      "name": "Córdoba",
+      "population": 1565112
+    },
+    {
+      "name": "Rosario",
+      "population": 1193605
+    }
+  ]
+}

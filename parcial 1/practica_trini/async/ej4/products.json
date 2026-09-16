@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "price": 1200,
+    "category": {
+      "name": "Computadoras",
+      "code": "PC"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Mouse",
+    "price": 25,
+    "category": {
+      "name": "Accesorios",
+      "code": "ACC"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Teclado",
+    "price": 80,
+    "category": {
+      "name": "Accesorios",
+      "code": "ACC"
+    }
+  }
+]

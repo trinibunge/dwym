@@ -1,0 +1,102 @@
+@font-face {
+  font-family: 'Rufina';
+  src: url('./assets/fonts/Rufina-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+body {
+  margin: 0;
+  font-family: 'Rufina', sans-serif;
+}
+
+.intro {
+  background-color: #f2d800;
+  padding: 20px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.texto {
+  font-family: 'Rufina', serif;
+  text-align: center;
+}
+
+.texto .titulo {
+  font-size: 40px;
+  font-weight: bold;
+  color: #c11a1a;
+}
+
+.texto .subtitulo {
+  font-size: 15px;
+  color: #c11a1a;
+}
+
+.foto {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.foto img {
+  width: 50%;
+}
+
+
+/* SECCIONES */
+
+.entradas,
+.plato-principal,
+.postres {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+
+/* MENÚ */
+
+.menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+}
+
+
+/* GRUPO DE PLATOS */
+
+.platos {
+  display: flex;
+  flex-direction: column;
+  width: 60%;
+}
+
+
+/* IMÁGENES */
+
+.imagen {
+  width: 30%;
+  height: auto;
+}
+
+
+/* PRECIO Y LÍNEA */
+
+.plato span {
+  display: block;
+  border-bottom: 2px dotted black;
+  padding-bottom: 10px;
+  width: 100%;
+  text-align: right;
+}
+
+p {
+  font-size: 15px;
+}
+
+h2{
+  font-size: 20px;
+  font-weight: bold;
+}
