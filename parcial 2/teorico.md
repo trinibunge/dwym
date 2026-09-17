@@ -1,8 +1,6 @@
-# React + Router + Context + json-server — Desde cero
-
+# React + Router + Context + json-server 
 Este apunte explica desde cero los conceptos necesarios para el Parcial 2 de React, siguiendo el orden en que conviene aprenderlos.
 
-La idea no es memorizar código aislado, sino entender **qué problema resuelve cada cosa** y cómo se conectan.
 
 ---
 
